@@ -18,7 +18,7 @@ Os acidentes de trânsito representam um problema relevante para a sociedade, po
 Apesar da existência de registros de ocorrências, o grande fluxo de informações geradas dificulta a identificação de padrões sem o uso de ferramentas adequadas de análise. Observar apenas os dados de quantidade de acidentes, não é suficiente para compreender quais locais, períodos, tipos de veículos ou características das ocorrências estão associados aos casos.
 ####
 
-Dessa forma, torna-se relevante utilizar dados históricos de acidentes para identificar padrões e características que possam auxiliar na compreensão do problema e trazer uma possivel solução para mitigar os acidentes.
+Dessa forma, torna-se relevante utilizar dados históricos de acidentes para identificar padrões e características que possam auxiliar na compreensão do problema e fornecer informações para apoiar ações de prevenção e mitigação dos acidentes.
 ####
 
 #### 1.2 Relevância
@@ -79,7 +79,7 @@ Forma de acesso: download dos arquivos disponibilizados pelo portal de Dados Abe
 A utilização conjunta das três fontes permitirá relacionar informações sobre o sinistro, as pessoas envolvidas e os veículos envolvidos, proporcionando uma análise mais completa do problema.
 ####
 
-#### 3 Escopo da análise
+#### 3. Escopo da análise
 
 Para este projeto, serão utilizados dados públicos referentes aos acidentes de trânsito registrados no Estado de São Paulo durante os meses de maio, junho e julho de 2026.
 
@@ -89,4 +89,4 @@ Sinistros/eventos de trânsito;
 Pessoas envolvidas nos sinistros;
 Veículos envolvidos nos sinistros.
 
-A análise terá caráter exploratório e estará concentrada na identificação de padrões e associações presentes nos dados desse período. Portanto, os resultados representam apenas um recorte dos meses citados.
+A análise terá caráter exploratório e estará concentrada na identificação de padrões e associações presentes nos dados desse período. Portanto, os resultados representam apenas um recorte dos meses analisados.
