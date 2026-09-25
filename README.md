@@ -75,6 +75,6 @@ A partir dos padrões identificados, algumas ações podem ser consideradas:
 
 ## Dashboard
 
-O projeto conta com um dashboard desenvolvido no **Looker Studio**, contendo indicadores e visualizações:
+O dashboard foi desenvolvido no **Looker Studio**, contendo indicadores e visualizações:
 
 🔗 **Dashboard:** [https://datastudio.google.com/reporting/3b7060cb-d29f-43ee-bdde-ef9a07e2970c]
